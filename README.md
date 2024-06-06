@@ -6,7 +6,7 @@ This repository is a tutroial for solving the Hidden in plain CTF in CyberTalent
 
 From the first look at the file table in Wireshark we cannot find anything abnormal about the file, but what caught my interest was the long length of the data and after investigating each reply and request we can find out that the data of the packet is changing by wide range from a packet to another so from that we can start our path for finding the hidden flag
 
-[![ARP STORM 1](https://github.com/zeyadsalah22/ARP-Storm-CTF/blob/main/images/Picture1.png)
+[![Hidden 1]()
 
 ## Catching up the packets data
 
